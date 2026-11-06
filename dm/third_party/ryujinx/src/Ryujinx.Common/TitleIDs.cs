@@ -183,6 +183,9 @@ namespace Ryujinx.Common
             "010074f013262000", // Xenoblade Chronicles 3
             "0100453019aa8000", // Xenoblade Chronicles: X Definitive Edition
 
+                          //Zelda Ocarina Of Time
+            "0400486024dec000",
+            
                           //Misc Games
             "01003670066de000", // 36 Fragments of Midnight
             "010056e00853a000", // A Hat in Time
